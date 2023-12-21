@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding/Engineering/Games
 - 🌱 I’m currently learning Flutter/Dart
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kweng000@citymail.cuny.edu
+- 📫 How to reach me kweng000@citymail.cuny.edu or wengkenny@gmail.com
 
 <!---
 Howdowk/Howdowk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
